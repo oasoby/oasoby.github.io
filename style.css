@@ -8,12 +8,10 @@
 h1{
     color:white;
     font-size: 64px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
      
 }
 h2 {
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body {
     background-image: url(img/back.png);
@@ -23,12 +21,10 @@ body {
 }
 p {
     font-size: 32px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 a {
     font-size: 32px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
 }
 div.center {
@@ -36,9 +32,6 @@ div.center {
 }
 div.text {
     position: top 5px;
-} 
-.font {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a {
     text-decoration: none;
