@@ -1,9 +1,7 @@
-.square {
-    .sq {
+.sq {
         width: auto;
         height: 150;
         background: #264573;
-    }
 }
 h1{
     color:white;
