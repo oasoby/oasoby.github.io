@@ -59,6 +59,7 @@ div.nav {
     left: 0px;
     font-size: 5px;
 }
-.link {
-    padding-top: auto;
+#link, #top{
+    padding-top: 20px;
+    margin-top: -20px;
 }
