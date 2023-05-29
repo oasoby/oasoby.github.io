@@ -54,6 +54,7 @@ div.nav {
     background: #336699;
     top: 0px;
     z-index: 10000;
+    position: fixed;
     width: 100%;
     left: 0px;
     font-size: 5px;
