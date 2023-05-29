@@ -59,3 +59,7 @@ div.nav {
     left: 0px;
     font-size: 5px;
 }
+.section h2 {
+    padding-top: 60px;
+    margin-top:-60px;
+}
