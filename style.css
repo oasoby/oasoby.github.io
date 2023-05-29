@@ -12,10 +12,13 @@ h2 {
     color: white;
 }
 body {
+    background: #27282b; 
+    /*    
     background-image: url(img/back.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    */
 }
 p {
     font-size: 32px;
