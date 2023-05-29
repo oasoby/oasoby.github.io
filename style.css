@@ -1,31 +1,34 @@
-.sq {
+.square {
+    .sq {
         width: auto;
         height: 150;
         background: #264573;
+    }
 }
 h1{
     color:white;
     font-size: 64px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
      
 }
 h2 {
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body {
-    background: #27282b; 
-    /*    
     background-image: url(img/back.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    */
 }
 p {
     font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 a {
     font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
 }
 div.center {
@@ -33,6 +36,9 @@ div.center {
 }
 div.text {
     position: top 5px;
+} 
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a {
     text-decoration: none;
@@ -50,11 +56,5 @@ button {
     color: black;
     width: 200px;
     height: 50px;
-    transition: .3s;
-}
-button:hover {
-    background: #336699;
-}
-div.space {
-    margin: 600px;
+    box-shadow:3px 5px #858585;
 }
