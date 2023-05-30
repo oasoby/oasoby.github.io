@@ -58,8 +58,14 @@ div.nav {
     width: 100%;
     left: 0px;
     font-size: 5px;
+    height: 58px;
 }
-#link, #top{
-    padding-top: 20px;
-    margin-top: -20px;
+main {
+    margin-top: 80px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-size: 20px;
+    color: white;
 }
