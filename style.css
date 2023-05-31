@@ -7,7 +7,7 @@ h2 {
     color: white;
 }
 body {
-    background: #27282b;
+    background: #345180;
 }
 p {
     font-size: 32px;
@@ -57,8 +57,9 @@ div.nav {
     position: fixed;
     width: 100%;
     left: 0px;
-    font-size: 5px;
-    height: 58px;
+    font-size: 10px;
+    height: 60px;
+    box-shadow: 0px 6px rgba(42,42,42,0.7);
 }
 main {
     margin-top: 80px;
