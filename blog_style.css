@@ -1,13 +1,57 @@
 h1{
     color:white;
     font-size: 64px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+h2 {
+    color: white;
 }
 body {
-    background-image: url(img/back.png);
+    background: #345180;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background-size: contain;
+    
+}
+p {
+    font-size: 32px;
+    color: white;
+}
+a {
+    font-size: 40px;
+    color: black;
+}
+div.center {
+    text-align: center;
+}
+div.text {
+    position: top 5px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+html {
+    scroll-behavior: smooth;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+    border-radius: 5px;
+    border: none;
+    font-size: 100%;
+    text-align: center;
+    color: black;
+    width: 200px;
+    height: 50px;
+    transition: .3s;
+}
+button:hover {
+    background: #336699;
+}
+div.space {
+    margin: 600px;
+}
+img {
+    vertical-align: middle;
 }
 div.nav {
     background: #336699;
@@ -19,4 +63,13 @@ div.nav {
     font-size: 10px;
     height: 60px;
     box-shadow: 0px 6px rgba(42,42,42,0.7);
+}
+main {
+    margin-top: 80px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-size: 20px;
+    color: white;
 }

@@ -8,13 +8,17 @@ h2 {
 }
 body {
     background: #345180;
+    background-image: url("img/back1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
 }
 p {
     font-size: 32px;
     color: white;
 }
 a {
-    font-size: 32px;
+    font-size: 40px;
     color: black;
 }
 div.center {
